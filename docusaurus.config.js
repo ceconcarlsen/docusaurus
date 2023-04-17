@@ -71,7 +71,7 @@ const config = {
             label: "Tutorial",
           },
           {
-            href: "https://github.com/facebook/docusaurus",
+            href: "https://github.com/ceconcarlsen",
             label: "GitHub",
             position: "right",
           },
@@ -110,17 +110,13 @@ const config = {
             title: "More",
             items: [
               {
-                label: "Blog",
-                to: "/blog",
-              },
-              {
                 label: "GitHub",
-                href: "https://github.com/facebook/docusaurus",
+                href: "https://github.com/facebook/ceconcarlsen",
               },
             ],
           },
         ],
-        copyright: `Copyright © ${new Date().getFullYear()} My Project, Inc. Built with Docusaurus.`,
+        copyright: `Copyright © ${new Date().getFullYear()} Divify.`,
       },
       prism: {
         theme: lightCodeTheme,
